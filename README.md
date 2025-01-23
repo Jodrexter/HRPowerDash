@@ -10,7 +10,7 @@ This project aims to create a comprehensive HR analytics dashboard to help organ
 
 ## Dataset Used
 
-- Data source: HR-related dataset (integrated and analyzed in **HR_Analytics.csv**).
+- Data source: HR-related dataset (integrated and analyzed in) <a href = "https://github.com/Jodrexter/HRPowerDash/blob/main/HR_Analytics.csv"></a>
 
 ## Key Questions (KPIs) Addressed
 
@@ -25,8 +25,8 @@ This project aims to create a comprehensive HR analytics dashboard to help organ
 
 ## Dashboard Interaction
 
-View an example of the dashboard visualization [00_PowerBi_HR_Analytics_image.jpg]
-You can checkout source file also [00_PowerBi_HR_Analytics_Project.pbix]
+Dashboard Interaction <a href="https://github.com/Jodrexter/HRPowerDash/blob/main/00_PowerBi_HR_Analytics_image.jpg">View Dashboard</a>
+You can checkout source file also <a href="https://github.com/Jodrexter/HRPowerDash/blob/main/00_PowerBi_HR_Analytics_Project.pbix">View Source File </a>
 
 ## Process
 
